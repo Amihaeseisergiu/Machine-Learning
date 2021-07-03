@@ -1,0 +1,3 @@
+outlook temp humidity windy
+discrete discrete discrete discrete
+overcast cool normal FALSE

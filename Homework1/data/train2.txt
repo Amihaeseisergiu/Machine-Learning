@@ -1,0 +1,10 @@
+Usoara Mirositoare ArePete Neteda Comestibila
+discrete discrete discrete discrete discrete
+1 0 0 0 1
+1 0 1 0 1
+0 0 0 1 0
+1 1 1 0 0
+1 0 1 1 0
+1 0 0 1 0
+0 1 0 0 0
+0 1 0 1 1
